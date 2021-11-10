@@ -1,0 +1,6 @@
+﻿// Global functions:
+// print
+
+
+println("Hello World")
+println("I am a test script written in scrap")
